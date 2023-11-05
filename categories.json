@@ -9,6 +9,10 @@
       "id": "img-cat-1",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-1.png"
     },
+    "banner": {
+      "id": "img-cat-banner-1",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-1.png"
+    },
     "parent_id": null,
     "published": true,
     "metadata": null
@@ -22,6 +26,10 @@
     "image": {
       "id": "img-cat-2",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-2.png"
+    },
+    "banner": {
+      "id": "img-cat-banner-2",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-2.png"
     },
     "parent_id": null,
     "published": true,
@@ -37,6 +45,10 @@
       "id": "img-cat-3",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-3.png"
     },
+    "banner": {
+      "id": "img-cat-banner-3",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-3.png"
+    },
     "parent_id": null,
     "published": true,
     "metadata": null
@@ -50,6 +62,10 @@
     "image": {
       "id": "img-cat-4",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-4.png"
+    },
+    "banner": {
+      "id": "img-cat-banner-4",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-4.png"
     },
     "parent_id": null,
     "published": true,
@@ -65,6 +81,10 @@
       "id": "img-cat-5",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-5.png"
     },
+    "banner": {
+      "id": "img-cat-banner-5",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-5.png"
+    },
     "parent_id": null,
     "published": true,
     "metadata": null
@@ -78,6 +98,10 @@
     "image": {
       "id": "img-cat-6",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-6.png"
+    },
+    "banner": {
+      "id": "img-cat-banner-6",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-6.png"
     },
     "parent_id": null,
     "published": true,
@@ -93,6 +117,10 @@
       "id": "img-cat-7",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-7.png"
     },
+    "banner": {
+      "id": "img-cat-banner-7",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-7.png"
+    },
     "parent_id": null,
     "published": true,
     "metadata": null
@@ -106,6 +134,10 @@
     "image": {
       "id": "img-cat-8",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-8.png"
+    },
+    "banner": {
+      "id": "img-cat-banner-8",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-8.png"
     },
     "parent_id": null,
     "published": true,
@@ -121,6 +153,10 @@
       "id": "img-cat-9",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-9.png"
     },
+    "banner": {
+      "id": "img-cat-banner-9",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-9.png"
+    },
     "parent_id": null,
     "published": true,
     "metadata": null
@@ -134,6 +170,10 @@
     "image": {
       "id": "img-cat-10",
       "url": "https://nopmengkoung.github.io/w-mock/assets/category-10.png"
+    },
+    "banner": {
+      "id": "img-cat-banner-0",
+      "url": "https://nopmengkoung.github.io/w-mock/assets/category-banner-0.png"
     },
     "parent_id": null,
     "published": true,
