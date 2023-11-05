@@ -1,0 +1,164 @@
+{
+  "banners": [
+    {
+      "id": "banner-1",
+      "placement": "home",
+      "image_id": "img-banner-1",
+      "image": {
+        "id": "img-1",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-1.png"
+      },
+      "published": true,
+      "store_id": "store-1",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    },
+    {
+      "id": "banner-2",
+      "placement": "home",
+      "image_id": "img-banner-2",
+      "image": {
+        "id": "img-2",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-2.png"
+      },
+      "published": true,
+      "store_id": "store-2",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    },
+    {
+      "id": "banner-3",
+      "placement": "home",
+      "image_id": "img-banner-3",
+      "image": {
+        "id": "img-3",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-3.png"
+      },
+      "published": true,
+      "store_id": "store-3",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    },
+    {
+      "id": "banner-4",
+      "placement": "home",
+      "image_id": "img-banner-4",
+      "image": {
+        "id": "img-4",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-4.png"
+      },
+      "published": true,
+      "store_id": "store-4",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    },
+    {
+      "id": "banner-5",
+      "placement": "home",
+      "image_id": "img-banner-5",
+      "image": {
+        "id": "img-5",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-5.png"
+      },
+      "published": true,
+      "store_id": "store-5",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    },
+    {
+      "id": "banner-6",
+      "placement": "home",
+      "image_id": "img-banner-6",
+      "image": {
+        "id": "img-6",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-6.png"
+      },
+      "published": true,
+      "store_id": "store-6",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    },
+    {
+      "id": "banner-7",
+      "placement": "home",
+      "image_id": "img-banner-7",
+      "image": {
+        "id": "img-7",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-7.png"
+      },
+      "published": true,
+      "store_id": "store-7",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    },
+    {
+      "id": "banner-8",
+      "placement": "home",
+      "image_id": "img-banner-8",
+      "image": {
+        "id": "img-8",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-8.png"
+      },
+      "published": true,
+      "store_id": "store-8",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    },
+    {
+      "id": "banner-9",
+      "placement": "home",
+      "image_id": "img-banner-9",
+      "image": {
+        "id": "img-9",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-9.png"
+      },
+      "published": true,
+      "store_id": "store-9",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    },
+    {
+      "id": "banner-10",
+      "placement": "home",
+      "image_id": "img-banner-10",
+      "image": {
+        "id": "img-10",
+        "url": "https://nopmengkoung.github.io/w-mock/assets/banner-10.png"
+      },
+      "published": true,
+      "store_id": "store-10",
+      "product_category_id": null,
+      "external_url": null,
+      "starts_at": null,
+      "ends_at": null,
+      "metadata": null
+    }
+  ]
+}
