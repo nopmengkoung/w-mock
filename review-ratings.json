@@ -10,12 +10,6 @@
       review_body: "This phone is great, but the battery life could be better. Overall, I'm happy with it and would recommend it to others.",
       review_helpful_count: 1,
       review_not_helpful_count: 1,
-      product_image_urls: [
-        "https://nopmengkoung.github.io/w-mock/assets/banner-1.png",
-        "https://nopmengkoung.github.io/w-mock/assets/banner-2.png",
-        "https://nopmengkoung.github.io/w-mock/assets/banner-3.png",
-        "https://nopmengkoung.github.io/w-mock/assets/banner-4.png",
-      ],
     },
     {
       id: "review-2",
